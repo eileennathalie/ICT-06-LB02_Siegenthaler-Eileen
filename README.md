@@ -1,4 +1,4 @@
-# ICT-06_LB01_Name1_Name2
+# ICT-06_LB01_Siegenthaler_Eileen_Stocker_Sarina
 
 ## Get started with the Full Stack Web App Using Vue.Js, Express Js and MySQL
 
